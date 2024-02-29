@@ -1,5 +1,7 @@
 "use strict";
 
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
+
 /**
  * Finds the index of the element with the smallest value in the array
  * @param {Array} array Source array
